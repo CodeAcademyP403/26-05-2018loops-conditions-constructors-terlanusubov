@@ -1,0 +1,7 @@
+C:\Users\P403\Desktop\C#\Enviroment\CMD\CMD\bin\Debug\CMD.exe.config
+C:\Users\P403\Desktop\C#\Enviroment\CMD\CMD\bin\Debug\CMD.exe
+C:\Users\P403\Desktop\C#\Enviroment\CMD\CMD\bin\Debug\CMD.pdb
+C:\Users\P403\Desktop\C#\Enviroment\CMD\CMD\obj\Debug\CMD.csprojResolveAssemblyReference.cache
+C:\Users\P403\Desktop\C#\Enviroment\CMD\CMD\obj\Debug\CMD.csproj.CoreCompileInputs.cache
+C:\Users\P403\Desktop\C#\Enviroment\CMD\CMD\obj\Debug\CMD.exe
+C:\Users\P403\Desktop\C#\Enviroment\CMD\CMD\obj\Debug\CMD.pdb
