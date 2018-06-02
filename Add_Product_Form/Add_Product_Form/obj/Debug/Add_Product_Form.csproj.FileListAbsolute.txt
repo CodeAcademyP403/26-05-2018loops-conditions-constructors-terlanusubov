@@ -1,0 +1,13 @@
+D:\Stock\Add_Product_Form\Add_Product_Form\bin\Debug\Add_Product_Form.exe.config
+D:\Stock\Add_Product_Form\Add_Product_Form\bin\Debug\Add_Product_Form.exe
+D:\Stock\Add_Product_Form\Add_Product_Form\bin\Debug\Add_Product_Form.pdb
+D:\Stock\Add_Product_Form\Add_Product_Form\obj\Debug\Add_Product_Form.csprojAssemblyReference.cache
+D:\Stock\Add_Product_Form\Add_Product_Form\obj\Debug\Add_Product_Form.Form1.resources
+D:\Stock\Add_Product_Form\Add_Product_Form\obj\Debug\Add_Product_Form.Properties.Resources.resources
+D:\Stock\Add_Product_Form\Add_Product_Form\obj\Debug\Add_Product_Form.csproj.GenerateResource.cache
+D:\Stock\Add_Product_Form\Add_Product_Form\obj\Debug\Add_Product_Form.csproj.CoreCompileInputs.cache
+D:\Stock\Add_Product_Form\Add_Product_Form\obj\Debug\Add_Product_Form.exe
+D:\Stock\Add_Product_Form\Add_Product_Form\obj\Debug\Add_Product_Form.pdb
+D:\Stock\Add_Product_Form\Add_Product_Form\bin\Debug\Add_Product_Library.dll
+D:\Stock\Add_Product_Form\Add_Product_Form\bin\Debug\Add_Product_Library.pdb
+D:\Stock\Add_Product_Form\Add_Product_Form\obj\Debug\Add_Product_Form.csproj.CopyComplete

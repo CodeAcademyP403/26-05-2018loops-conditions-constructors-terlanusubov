@@ -1,0 +1,6 @@
+D:\Stock\Add_Product\Stock_Library\bin\Debug\Stock_Library.dll
+D:\Stock\Add_Product\Stock_Library\bin\Debug\Stock_Library.pdb
+D:\Stock\Add_Product\Stock_Library\obj\Debug\Stock_Library.csprojAssemblyReference.cache
+D:\Stock\Add_Product\Stock_Library\obj\Debug\Stock_Library.csproj.CoreCompileInputs.cache
+D:\Stock\Add_Product\Stock_Library\obj\Debug\Stock_Library.dll
+D:\Stock\Add_Product\Stock_Library\obj\Debug\Stock_Library.pdb

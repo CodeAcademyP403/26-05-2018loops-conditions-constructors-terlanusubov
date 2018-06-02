@@ -1,0 +1,6 @@
+D:\Stock\Add_Product_Form\Add_Product_Library\obj\Debug\Add_Product_Library.csprojAssemblyReference.cache
+D:\Stock\Add_Product_Form\Add_Product_Library\obj\Debug\Add_Product_Library.csproj.CoreCompileInputs.cache
+D:\Stock\Add_Product_Form\Add_Product_Library\bin\Debug\Add_Product_Library.dll
+D:\Stock\Add_Product_Form\Add_Product_Library\bin\Debug\Add_Product_Library.pdb
+D:\Stock\Add_Product_Form\Add_Product_Library\obj\Debug\Add_Product_Library.dll
+D:\Stock\Add_Product_Form\Add_Product_Library\obj\Debug\Add_Product_Library.pdb
